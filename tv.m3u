@@ -1,5 +1,69 @@
+
 #EXTM3U
 # Playlist created by SMPlayer 25.6.0 (修订版 10369) (64-bit) 
+#EXTINF:-1 ,北京卫视4k
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000001/index.m3u8
+#EXTINF:-1 ,广东卫视4k
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000003/index.m3u8
+#EXTINF:-1 ,深圳卫视4k
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000004/index.m3u8
+#EXTINF:-1 ,山东卫视4k
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000005/index.m3u8
+#EXTINF:-1 ,江苏卫视4k
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000007/index.m3u8
+#EXTINF:-1 ,浙江卫视4k
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000008/index.m3u8
+#EXTINF:-1 ,湖南卫视4k
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000006/index.m3u8
+#EXTINF:-1 ,东方卫视4k
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000009/index.m3u8
+#EXTINF:0,CCTV4欧洲HD
+http://39.134.144.6:8089/PLTV/88888888/224/3221226318/index.m3u8
+#EXTINF:0,CCTV4美洲HD
+http://39.134.144.6:8089/PLTV/88888888/224/3221226395/index.m3u8
+#EXTINF:0,CGTN-英语HD
+http://39.134.144.6:8089/PLTV/88888888/224/3221226320/index.m3u8
+#EXTINF:0,CGTN-纪录HD
+http://39.134.144.6:8089/PLTV/88888888/224/3221226401/index.m3u8
+#EXTINF:1.35178,CHC动作电影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
+#EXTINF:1.35178,CHC家庭影院
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
+#EXTINF:1.35178,CHC影迷电影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
+#EXTINF:1.35178,求索纪录
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
+#EXTINF:1.35178,华数精彩影视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
+#EXTINF:1.35178,SiTV劲爆体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
+#EXTINF:1.35178,SiTV法治天地
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8
+#EXTINF:1.35178,SiTV生活时尚
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
+#EXTINF:1.35178,SiTV都市频道
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8
+#EXTINF:1.35178,SiTV金色学堂
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8
+#EXTINF:,东方卫视
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:,东方卫视
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+#EXTINF:,浙江卫视
+https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
+#EXTINF:,江苏卫视
+http://8.138.7.223/tv/jsws4k.php
+#EXTINF:,深圳卫视
+http://nn.7x9d.cn/%E6%B7%B1%E5%9C%B3%E6%9C%80%E6%96%B0.php?id=szws4k
+#EXTINF:,苏州4K
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+#EXTINF:,河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:,南国都市
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+#EXTINF:,海峡卫视
+http://8.138.7.223/tv/hxws.m3u8
+#EXTM3U
 #EXTINF:1.35178,CCTV4K
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
 #EXTINF:1.35178,CCTV1综合HD
